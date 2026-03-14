@@ -7,6 +7,7 @@
 (define deps '("base" "net-lib" "rackunit-lib" "base64-lib"))
 (define build-deps '("racket-doc" "scribble-lib" "net-doc"))
 (define pkg-authors '(ryanc))
+(define license 'Apache-2.0)
 
 ;; collection info
 
